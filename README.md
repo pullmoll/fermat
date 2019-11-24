@@ -1,2 +1,3 @@
-# fermat
-Pierre de Fermat
+# Pierre de Fermat
+
+Something about Pierre de Fermat and his infamous *last theorem*...
